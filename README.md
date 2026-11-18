@@ -1,0 +1,1 @@
+Placement Prep Buddy is a rule-based chatbot for students preparing for placements. It uses regex pattern matching with weighted intent scoring and if-else rules to answer questions. Features include DSA topic explanations, a study plan builder, a quiz mode, interview and resume tips, and a safe calculator.
